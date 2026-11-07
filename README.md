@@ -1,223 +1,146 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,100:18181B&height=8" width="100%" />
+# Hi, I'm Mohammed Fawaz Haneef 👋
+
+### Full-Stack Software Engineer · Python · TypeScript · React · FastAPI
+
+I build full-stack web apps and AI features that people actually use.<br/>
+Co-founder and engineer at **[Lupyd](https://www.lupyd.com)**, a privacy-first collaboration platform.
 
 <br/>
 
-<p>
-  <sub>SOFTWARE ENGINEER &nbsp; / &nbsp; PRODUCT BUILDER &nbsp; / &nbsp; CO-FOUNDER</sub>
+<a href="https://www.linkedin.com/in/fawaz-devs"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mohdfawaz2004@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://portfolio-coral-rho-99.vercel.app"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<img src="https://img.shields.io/badge/Open_to-Entry--level_SWE_roles-22C55E?style=flat-square" />
+
+</div>
+
+---
+
+## 🚀 What I'm working on
+
+- 🔐 **Lupyd:** I've made 100+ commits to the cross-platform desktop client (Tauri + React + TypeScript), shipping onboarding, group invites, infinite feed loading, E2E-encryption indicators and performance fixes.
+- 🧠 **ATLAS AI:** A RAG platform that lets teams chat with their internal documents and get cited answers.
+- 🧩 **DSA:** I practise LeetCode regularly in Python ([solutions](https://github.com/Fawaz-devs/DSA)).
+
+---
+
+## 💼 Experience
+
+**Co-founder & Software Engineer, [Lupyd](https://www.lupyd.com)**
+*Lupyd is a privacy-first alternative to Discord and Slack, with end-to-end encrypted chat (Signal Protocol + MLS), workspaces, and voice/video calls on desktop and mobile.*
+
+- Built product features in the **Tauri desktop client** (React, TypeScript, Rust), including onboarding, group invites, post feed, camera and username flows.
+- Improved feed performance with **infinite loading** and **lazy-loaded avatars**, and fixed comment and feed bugs.
+- Contributed to the **web client** (`lupyd-web-vite`) and the **Firefly** E2EE messaging library (Rust).
+
+---
+
+## 🛠️ Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [ATLAS AI](https://github.com/Fawaz-devs/ATLAS-AI)
+An enterprise knowledge assistant built on **Retrieval-Augmented Generation**. You upload PDFs and ask questions; it retrieves the relevant passages and answers with source citations.
+
+`FastAPI` `React` `TypeScript` `RAG` `Vector DB` `LLMs`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 [E-Commerce REST API](https://github.com/Fawaz-devs/RESTful-API-for-E-Commerce)
+A production-style backend with JWT auth, product CRUD with admin roles, cart and order processing with inventory checks, and auto-generated OpenAPI docs.
+
+`FastAPI` `PostgreSQL` `SQLAlchemy` `JWT` `pytest` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ [API Test Automation](https://github.com/Fawaz-devs/API-Test-Automation)
+A pytest framework for REST API regression testing. It has a reusable HTTP client and shared fixtures, generates HTML reports, and runs on every push via **GitHub Actions CI**.
+
+`Python` `pytest` `requests` `GitHub Actions` `CI/CD`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [Live Polling System](https://github.com/Fawaz-devs/live-polling)
+A real-time classroom polling app. Teachers create polls, students answer live, and results update instantly over WebSockets.
+
+`Node.js` `Express` `Socket.io` `React` `WebSockets`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 [Smart Feedback Analysis](https://github.com/Fawaz-devs/Smart-feedback-sentiment-analysis)
+A full-stack feedback platform with role-based access. It classifies sentiment automatically and shows admins dashboards of trends over time.
+
+`React` `TypeScript` `PostgreSQL` `NLP` `Chart.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔤 [Lang Lens: Hindi/English OCR](https://github.com/Fawaz-devs/hindi-english-ocr)
+Extracts bilingual text from images, supports keyword search with highlighted matches, and exports results to JSON.
+
+`Python` `EasyOCR` `Streamlit` `Computer Vision`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects</b></summary>
+<br/>
+
+- **[VocalPixels](https://github.com/Fawaz-devs/VOCALPIXELS):** Speech-to-image pipeline (Whisper → LLM prompt engineering → SDXL Turbo).
+- **[Cognitive Attendance & Behaviour Analysis](https://github.com/Fawaz-devs/COGNITIVE-ATTENDANCE-AND-BEHAVIOUR-ANALYSIS):** Face-recognition attendance with emotion analysis.
+- **[FullStack AI Application](https://github.com/Fawaz-devs/FullStack-AI-Application):** Next.js AI chat app with streaming API routes and shadcn/ui.
+- **[Bank Note Authentication](https://github.com/Fawaz-devs/Bank-Note-Authentication):** ML classifier for counterfeit detection, served through a Python app.
+- **[Gesture Control](https://github.com/Fawaz-devs/Gesture_control_sound_brightness):** Controls volume and brightness with hand gestures via computer vision.
+
+</details>
+
+---
+
+## 🧰 Tech stack
+
+| | |
+|---|---|
+| **Languages** | Python · TypeScript · JavaScript · SQL · Rust (working knowledge) |
+| **Frontend** | React · Next.js · Tailwind CSS · shadcn/ui · Vite |
+| **Backend** | FastAPI · Django · Node.js · Express · REST APIs · WebSockets |
+| **Data & AI** | PostgreSQL · MongoDB · Supabase · Redis · RAG · LLM APIs · PyTorch |
+| **Tooling** | Git · Docker · GitHub Actions · pytest · Vercel · Tauri |
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,fastapi,nodejs,postgres,mongodb,docker,githubactions,rust&theme=dark" />
 </p>
 
-# Mohammed Fawaz Haneef
-
-### Engineering products from idea to execution.
-
-I build digital products with an emphasis on thoughtful interfaces, robust engineering and intelligent systems.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/fawaz-devs">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-18181B?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:mohdfawaz2004@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Get%20in%20touch-18181B?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/fawaz-devs">
-  <img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-18181B?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,100:27272A&height=1" width="85%" />
-
-</div>
-
-<br/>
-
-## About
-
-I'm a software engineer and product builder interested in the intersection of frontend engineering, full-stack development and applied AI.
-
-I enjoy working across the entire product lifecycle — understanding a problem, shaping the experience, designing the architecture and translating ideas into functional software.
-
-Currently building at **Lupyd**, exploring AI-powered development with **ATLAS AI**, and continuously refining how I approach software engineering.
-
-**What I bring to the table**
-
-- **Product thinking** — understanding the problem before building the solution.
-- **Frontend engineering** — translating product ideas into polished, responsive experiences.
-- **Full-stack development** — connecting interfaces, APIs, databases and application logic.
-- **Applied AI** — integrating intelligent capabilities into practical applications.
-- **Ownership** — taking ideas beyond prototypes and working towards real products.
-
 ---
 
-## Selected work
+## 📈 GitHub activity
 
-*A selection of products and engineering projects.*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 / ATLAS AI**
-
-### ATLAS AI
-
-An AI-focused development project exploring intelligent developer workflows and application capabilities.
-
-`TypeScript` `AI` `Application Development`
-
-[Explore repository ↗](https://github.com/Fawaz-devs/ATLAS-AI)
-
-</td>
-<td width="50%" valign="top">
-
-**02 / PRODUCT ENGINEERING**
-
-### Lupyd
-
-A privacy-focused collaboration platform combining secure communication, project management and social features.
-
-`Rust` `React` `Encryption` `Full-stack`
-
-[Explore GitHub ↗](https://github.com/fawaz-devs)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 / APPLICATION DEVELOPMENT**
-
-### FullStack AI Application
-
-A full-stack application exploring modern application development and AI integration.
-
-`TypeScript` `Full-stack` `AI`
-
-[Explore repository ↗](https://github.com/Fawaz-devs/FullStack-AI-Application)
-
-</td>
-<td width="50%" valign="top">
-
-**04 / BACKEND ENGINEERING**
-
-### RESTful E-Commerce API
-
-A backend engineering project demonstrating API development and application architecture.
-
-`Python` `REST API` `Backend`
-
-[Explore repository ↗](https://github.com/Fawaz-devs/RESTful-API-for-E-Commerce)
-
-</td>
-</tr>
-</table>
-
-[View all repositories →](https://github.com/fawaz-devs?tab=repositories)
-
----
-
-## Engineering toolkit
-
-I work across the stack, with a particular interest in building modern frontend experiences and connecting them to reliable backend systems.
-
-<table>
-<tr>
-<td width="160" valign="top">
-
-**FRONTEND**
-
-</td>
-<td valign="top">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,mui,vite&theme=dark" />
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**BACKEND**
-
-</td>
-<td valign="top">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,express,rust&theme=dark" />
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**DATA & AI**
-
-</td>
-<td valign="top">
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis,pytorch&theme=dark" />
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**TOOLS & INFRA**
-
-</td>
-<td valign="top">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel&theme=dark" />
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fawaz-devs&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=ADBAC7&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawaz-devs&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=ADBAC7&langs_count=8" />
-
-<br/><br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=fawaz-devs&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fawaz-devs&bg_color=0D1117&color=E4E4E7&line=22C55E&point=FFFFFF&area=true&hide_border=true" />
 
 ---
 
 <div align="center">
 
-## Let's build something meaningful.
+### 🤝 Let's connect
 
-I'm interested in ambitious products, challenging engineering problems and opportunities to work with people who care about what they build.
+I'm looking for **entry-level / new-grad software engineering roles** (full-stack, backend or AI engineering).<br/>
+If my work looks like a fit, I'd love to chat.
 
-<br/>
-
-**Have an interesting problem? Let's talk.**
-
-<a href="https://www.linkedin.com/in/fawaz-devs">
-  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=111111" />
-</a>
-
-<a href="mailto:mohdfawaz2004@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL_ME-FFFFFF?style=for-the-badge&logo=gmail&logoColor=111111" />
-</a>
-
-<br/><br/>
-
-<sub>MOHAMMED FAWAZ HANEEF · ENGINEERED WITH INTENTION.</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181B,100:09090B&height=8" width="100%" />
+<a href="https://www.linkedin.com/in/fawaz-devs"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mohdfawaz2004@gmail.com"><img src="https://img.shields.io/badge/Email_me-18181B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
