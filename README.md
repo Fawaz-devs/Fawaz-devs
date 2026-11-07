@@ -10,13 +10,13 @@
 
 <br/>
 
-I'm a full-stack software engineer who likes taking products from idea to production. I co-founded **[Lupyd](https://www.lupyd.com)**, where I build the cross-platform client for an end-to-end encrypted collaboration app. On the side, I build applied-AI tools like **[ATLAS AI](https://atlasaibyfawaz.vercel.app/)**, a RAG knowledge assistant. I mostly work in **Python, TypeScript, React and FastAPI**, and I'm looking for my first full-time SWE role.
+I'm a full-stack software engineer who likes taking products from idea to production. I've gained hands-on product experience at **[Lupyd](https://www.lupyd.com)**, an early-stage startup building an end-to-end encrypted collaboration app. I also build applied-AI tools like **[ATLAS AI](https://atlasaibyfawaz.vercel.app/)**, a RAG knowledge assistant. I mostly work in **Python, TypeScript, React and FastAPI**, and I'm looking for my first full-time SWE role.
 
 <br/>
 
 <img src="./assets/sec-experience.svg" width="100%" alt="01 — Experience" />
 
-<a href="https://www.lupyd.com"><img src="./assets/card-lupyd.svg" width="100%" alt="Lupyd: co-founder and software engineer" /></a>
+<a href="https://www.lupyd.com"><img src="./assets/card-lupyd.svg" width="100%" alt="Experience: software engineering at Lupyd, an early-stage startup" /></a>
 
 - Shipped product features in the **Tauri desktop client** (React, TypeScript, Rust): onboarding, group invites, post feed, camera and username flows.
 - Improved feed performance with **infinite loading** and **lazy-loaded avatars**, and fixed long-standing comment and feed bugs.

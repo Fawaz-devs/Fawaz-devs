@@ -53,10 +53,10 @@
 <rect x="128" y="370" width="12" height="28" fill="#22D3EE" opacity="0">
 <animate attributeName="x" values="128;502;502;128;128" keyTimes="0;0.3;0.75;0.9;1" dur="4s" begin="0s;tc0b.end+12s" id="tc0b"/>
 <set attributeName="opacity" to="1" begin="tc0b.begin" dur="4s"/></rect><clipPath id="tc1"><rect x="128" y="362" height="44" width="0">
-<animate attributeName="width" values="0;475;475;0;0" keyTimes="0;0.3;0.75;0.9;1" dur="4s" begin="4s;tc1a.end+12s" id="tc1a" fill="freeze"/></rect></clipPath>
-<text x="128" y="392" class="mono" font-size="24" fill="#FAFAFA" clip-path="url(#tc1)">end-to-end encrypted chat @ Lupyd</text>
+<animate attributeName="width" values="0;432;432;0;0" keyTimes="0;0.3;0.75;0.9;1" dur="4s" begin="4s;tc1a.end+12s" id="tc1a" fill="freeze"/></rect></clipPath>
+<text x="128" y="392" class="mono" font-size="24" fill="#FAFAFA" clip-path="url(#tc1)">end-to-end encrypted chat apps</text>
 <rect x="128" y="370" width="12" height="28" fill="#22D3EE" opacity="0">
-<animate attributeName="x" values="128;603;603;128;128" keyTimes="0;0.3;0.75;0.9;1" dur="4s" begin="4s;tc1b.end+12s" id="tc1b"/>
+<animate attributeName="x" values="128;560;560;128;128" keyTimes="0;0.3;0.75;0.9;1" dur="4s" begin="4s;tc1b.end+12s" id="tc1b"/>
 <set attributeName="opacity" to="1" begin="tc1b.begin" dur="4s"/></rect><clipPath id="tc2"><rect x="128" y="362" height="44" width="0">
 <animate attributeName="width" values="0;432;432;0;0" keyTimes="0;0.3;0.75;0.9;1" dur="4s" begin="8s;tc2a.end+12s" id="tc2a" fill="freeze"/></rect></clipPath>
 <text x="128" y="392" class="mono" font-size="24" fill="#FAFAFA" clip-path="url(#tc2)">real-time apps with WebSockets</text>
@@ -76,7 +76,7 @@
 </g>
 <g class="fade" style="animation-delay:.8s" text-anchor="end">
   <text x="1168" y="438" class="sans" font-size="40" font-weight="600" fill="#FAFAFA">100+</text>
-  <text x="1168" y="464" class="mono" font-size="13" letter-spacing="1.5" fill="#8B8B95">COMMITS @ LUPYD</text>
+  <text x="1168" y="464" class="mono" font-size="13" letter-spacing="1.5" fill="#8B8B95">PRODUCTION COMMITS</text>
   <text x="968" y="438" class="sans" font-size="40" font-weight="600" fill="#FAFAFA">10+</text>
   <text x="968" y="464" class="mono" font-size="13" letter-spacing="1.5" fill="#8B8B95">PROJECTS BUILT</text>
 </g>

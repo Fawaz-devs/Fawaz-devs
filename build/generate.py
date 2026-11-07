@@ -119,7 +119,7 @@ def chips(items, x, y, size=15, gap=10, pad=14, h=32, color=MUTED, max_w=None):
 # ---------------------------------------------------------------- hero
 def hero():
     W, H = 1280, 560
-    phrases = ["RAG pipelines with FastAPI", "end-to-end encrypted chat @ Lupyd",
+    phrases = ["RAG pipelines with FastAPI", "end-to-end encrypted chat apps",
                "real-time apps with WebSockets", "clean React + TypeScript UIs"]
     cyc, slot = 16, 4
     px, py, fs = 128, 392, 24
@@ -154,7 +154,7 @@ def hero():
 </g>
 <g class="fade" style="animation-delay:.8s" text-anchor="end">
   <text x="{W - 112}" y="438" class="sans" font-size="40" font-weight="600" fill="{TEXT}">100+</text>
-  <text x="{W - 112}" y="464" class="mono" font-size="13" letter-spacing="1.5" fill="{DIM}">COMMITS @ LUPYD</text>
+  <text x="{W - 112}" y="464" class="mono" font-size="13" letter-spacing="1.5" fill="{DIM}">PRODUCTION COMMITS</text>
   <text x="{W - 312}" y="438" class="sans" font-size="40" font-weight="600" fill="{TEXT}">10+</text>
   <text x="{W - 312}" y="464" class="mono" font-size="13" letter-spacing="1.5" fill="{DIM}">PROJECTS BUILT</text>
 </g>
@@ -246,12 +246,12 @@ def footer():
 
 FILES = {
     "hero.svg": hero(),
-    "sec-experience.svg": section("01", "Where I", "work.", "experience"),
+    "sec-experience.svg": section("01", "Hands-on", "experience.", "real-world product work"),
     "sec-projects.svg": section("02", "Things I’ve", "built.", "selected projects"),
     "sec-stack.svg": section("03", "Tools I", "use.", "tech stack"),
     "sec-activity.svg": section("04", "Shipping", "lately.", "github activity"),
-    "card-lupyd.svg": card("CO-FOUNDER", "Software engineer", "Lupyd",
-                           "Privacy-first alternative to Discord & Slack: end-to-end encrypted chat (Signal Protocol + MLS), workspaces and voice/video, on desktop and mobile. I build product features in the cross-platform Tauri client.",
+    "card-lupyd.svg": card("EXPERIENCE", "Software engineering · early-stage startup", "Lupyd",
+                           "Built and shipped features in a production React + TypeScript codebase for an end-to-end encrypted collaboration app (Signal Protocol + MLS) that runs on desktop and mobile.",
                            ["React", "TypeScript", "Tauri", "Rust", "E2EE", "Vite"], "lupyd.com", GREEN,
                            W=1280, H=330, metrics=[("100+", "COMMITS"), ("5", "PLATFORMS")], gid="cl"),
     "card-atlas.svg": card("01", "AI engineering · RAG", "ATLAS AI",
