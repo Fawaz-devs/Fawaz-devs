@@ -1,251 +1,194 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050510,35:171044,70:312E81,100:6D28D9&text=FAWAZ%20HANEEF&fontColor=FFFFFF&fontSize=54&fontAlignY=43&animation=twinkling&stroke=8B5CF6&strokeWidth=1" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Software+Engineer+%7C+Product+Builder;Co-founder+%40+Lupyd;Frontend+%7C+Full-stack+%7C+Applied+AI;Building+products%2C+not+just+projects.;Ideas+%E2%86%92+Interfaces+%E2%86%92+Working+Products." alt="Animated introduction" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,100:18181B&height=8" width="100%" />
 
 <br/>
 
-### Software Engineer · Co-founder @ Lupyd
+<p>
+  <sub>SOFTWARE ENGINEER &nbsp; / &nbsp; PRODUCT BUILDER &nbsp; / &nbsp; CO-FOUNDER</sub>
+</p>
 
-**I turn ideas into products people can actually use.**
+# Mohammed Fawaz Haneef
 
-Building polished interfaces, scalable full-stack applications and AI-powered experiences.
+### Engineering products from idea to execution.
+
+I build digital products with an emphasis on thoughtful interfaces, robust engineering and intelligent systems.
 
 <br/>
 
-<a href="https://github.com/fawaz-devs">
-<img src="https://img.shields.io/badge/GITHUB-0D0B18?style=for-the-badge&logo=github&logoColor=white&labelColor=17132D" />
+<a href="https://www.linkedin.com/in/fawaz-devs">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-18181B?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/Fawaz-devs?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-312E81?style=for-the-badge&logo=github&logoColor=white" />
+&nbsp;
+<a href="mailto:mohdfawaz2004@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Get%20in%20touch-18181B?style=flat-square&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://github.com/fawaz-devs">
-<img src="https://img.shields.io/badge/BUILDING_IN_PUBLIC-6D28D9?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-18181B?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=fawaz-devs&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,100:27272A&height=1" width="85%" />
 
 </div>
+
+<br/>
+
+## About
+
+I'm a software engineer and product builder interested in the intersection of frontend engineering, full-stack development and applied AI.
+
+I enjoy working across the entire product lifecycle — understanding a problem, shaping the experience, designing the architecture and translating ideas into functional software.
+
+Currently building at **Lupyd**, exploring AI-powered development with **ATLAS AI**, and continuously refining how I approach software engineering.
+
+**What I bring to the table**
+
+- **Product thinking** — understanding the problem before building the solution.
+- **Frontend engineering** — translating product ideas into polished, responsive experiences.
+- **Full-stack development** — connecting interfaces, APIs, databases and application logic.
+- **Applied AI** — integrating intelligent capabilities into practical applications.
+- **Ownership** — taking ideas beyond prototypes and working towards real products.
 
 ---
 
-<div align="center">
+## Selected work
 
-## `01` — THE DEVELOPER
-
-### Curious mind. Builder mentality. Engineer by craft.
-
-</div>
-
-I'm Mohammed Fawaz Haneef, a software engineer passionate about building products at the intersection of **frontend engineering, full-stack development and applied AI.**
-
-I enjoy taking an idea from a rough concept to a functional, polished application — designing the experience, engineering the architecture, integrating intelligent features and getting it shipped.
-
-- 🚀 Co-founder building at **Lupyd**
-- 🧠 Exploring AI-powered development with **ATLAS AI**
-- 🎨 Focused on modern frontend engineering and intuitive UI/UX
-- ⚙️ Building full-stack applications with React, TypeScript and Python
-- 🔐 Interested in secure systems, application architecture and product engineering
-- 🌎 Open to Software Engineer, Frontend Engineer and Full-stack Engineer opportunities
-
-> I don't just want to write code. I want to build things that solve problems.
-
----
-
-<div align="center">
-
-## `02` — THE TECH STACK
-
-### My tools of choice
-
-*From pixels to production.*
-
-</div>
+*A selection of products and engineering projects.*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Frontend Engineering
+**01 / ATLAS AI**
 
-Building responsive, accessible and engaging interfaces.
+### ATLAS AI
 
-<br/>
+An AI-focused development project exploring intelligent developer workflows and application capabilities.
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,materialui,vite&theme=dark" />
+`TypeScript` `AI` `Application Development`
 
-<br/><br/>
-
-**Focus areas**
-
-- Component-driven architecture
-- Responsive UI development
-- State management
-- Modern React patterns
-- UI/UX implementation
-- Animations and interactions
+[Explore repository ↗](https://github.com/Fawaz-devs/ATLAS-AI)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Backend Engineering
+**02 / PRODUCT ENGINEERING**
 
-Building APIs, application logic and reliable services.
+### Lupyd
 
-<br/>
+A privacy-focused collaboration platform combining secure communication, project management and social features.
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,express,rust&theme=dark" />
+`Rust` `React` `Encryption` `Full-stack`
 
-<br/><br/>
-
-**Focus areas**
-
-- REST API development
-- Authentication and authorization
-- Backend architecture
-- API integrations
-- Asynchronous processing
-- Application security
+[Explore GitHub ↗](https://github.com/fawaz-devs)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 AI & Machine Learning
+**03 / APPLICATION DEVELOPMENT**
 
-Integrating intelligence into useful applications.
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=pytorch,python&theme=dark" />
-
-<br/><br/>
-
-**Exploring**
-
-- Large Language Models
-- Retrieval-Augmented Generation
-- AI application development
-- Semantic search
-- NLP and sentiment analysis
-
-</td>
-<td width="50%" valign="top">
-
-### 🗄️ Databases & Infrastructure
-
-Making applications reliable beyond the interface.
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis,docker,git,github,vercel&theme=dark" />
-
-<br/><br/>
-
-**Focus areas**
-
-- Database design
-- Data modeling
-- Containerization
-- Version control
-- Deployment and integrations
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `03` — SELECTED BUILDS
-
-### Less talking. More building.
-
-*Some things I've worked on.*
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🧠 ATLAS AI</h3>
-
-<img src="https://img.shields.io/badge/AI-APPLICATION-312E81?style=flat-square" />
-<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-
-An AI-focused development project exploring intelligent application workflows.
-
-<br/><br/>
-
-<a href="https://github.com/Fawaz-devs/ATLAS-AI">
-<strong>↗ VIEW PROJECT</strong>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🔐 LUPYD</h3>
-
-<img src="https://img.shields.io/badge/PRODUCT-BUILDING-312E81?style=flat-square" />
-<img src="https://img.shields.io/badge/RUST-000000?style=flat-square&logo=rust&logoColor=white" />
-
-A social and collaboration platform focused on secure communication, project management and privacy.
-
-<br/><br/>
-
-<a href="https://github.com/fawaz-devs">
-<strong>↗ EXPLORE MY WORK</strong>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>⚡ FULL STACK AI APPLICATION</h3>
-
-<img src="https://img.shields.io/badge/FULLSTACK-APPLICATION-312E81?style=flat-square" />
-<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+### FullStack AI Application
 
 A full-stack application exploring modern application development and AI integration.
 
-<br/><br/>
+`TypeScript` `Full-stack` `AI`
 
-<a href="https://github.com/Fawaz-devs/FullStack-AI-Application">
-<strong>↗ VIEW PROJECT</strong>
-</a>
+[Explore repository ↗](https://github.com/Fawaz-devs/FullStack-AI-Application)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🛒 RESTFUL E-COMMERCE API</h3>
+**04 / BACKEND ENGINEERING**
 
-<img src="https://img.shields.io/badge/BACKEND-ENGINEERING-312E81?style=flat-square" />
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+### RESTful E-Commerce API
 
-A backend engineering project focused on RESTful API development and application architecture.
+A backend engineering project demonstrating API development and application architecture.
 
-<br/><br/>
+`Python` `REST API` `Backend`
 
-<a href="https://github.com/Fawaz-devs/RESTful-API-for-E-Commerce">
-<strong>↗ VIEW PROJECT</strong>
-</a>
+[Explore repository ↗](https://github.com/Fawaz-devs/RESTful-API-for-E-Commerce)
 
 </td>
 </tr>
 </table>
 
+[View all repositories →](https://github.com/fawaz-devs?tab=repositories)
+
+---
+
+## Engineering toolkit
+
+I work across the stack, with a particular interest in building modern frontend experiences and connecting them to reliable backend systems.
+
+<table>
+<tr>
+<td width="160" valign="top">
+
+**FRONTEND**
+
+</td>
+<td valign="top">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,mui,vite&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**BACKEND**
+
+</td>
+<td valign="top">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,express,rust&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**DATA & AI**
+
+</td>
+<td valign="top">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis,pytorch&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**TOOLS & INFRA**
+
+</td>
+<td valign="top">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub activity
+
 <div align="center">
 
-<a href="https://github.com/fawaz-devs?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fawaz-devs&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=ADBAC7&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawaz-devs&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=ADBAC7&langs_count=8" />
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=fawaz-devs&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -253,51 +196,28 @@ A backend engineering project focused on RESTful API development and application
 
 <div align="center">
 
-## `04` — GITHUB ACTIVITY
+## Let's build something meaningful.
 
-### The work behind the profile.
-
-*An evolving picture of what I'm building.*
+I'm interested in ambitious products, challenging engineering problems and opportunities to work with people who care about what they build.
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fawaz-devs&show_icons=true&hide_border=true&bg_color=09090F&title_color=A78BFA&icon_color=818CF8&text_color=E4E4E7&rank_icon=github&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawaz-devs&layout=compact&hide_border=true&bg_color=09090F&title_color=A78BFA&text_color=E4E4E7&langs_count=8" />
+**Have an interesting problem? Let's talk.**
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/fawaz-devs">
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=111111" />
+</a>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=fawaz-devs&bg_color=09090F&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=fawaz-devs&theme=transparent&hide_border=true&ring=A78BFA&fire=818CF8&currStreakLabel=A78BFA&sideLabels=E4E4E7&dates=888888" />
-
-</div>
-
----
-
-<div align="center">
-
-## `05` — WHAT'S NEXT?
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Always+learning.+Always+building.;Good+products+start+with+good+engineering.;Let's+build+something+meaningful." />
-
-<br/>
-
-**I'm always interested in ambitious products, interesting engineering challenges and great people to build with.**
-
-<br/>
-
-<a href="https://github.com/fawaz-devs">
-<img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<a href="mailto:mohdfawaz2004@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL_ME-FFFFFF?style=for-the-badge&logo=gmail&logoColor=111111" />
 </a>
 
 <br/><br/>
 
-<sub>ENGINEERED WITH CURIOSITY · BUILT WITH INTENTION · FAWAZ HANEEF</sub>
+<sub>MOHAMMED FAWAZ HANEEF · ENGINEERED WITH INTENTION.</sub>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:312E81,100:050510&height=110&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181B,100:09090B&height=8" width="100%" />
 
 </div>
